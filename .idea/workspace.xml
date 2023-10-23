@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479429e3-539b-4684-8c6b-43ac92ab3cc3" name="Changes" comment="V2">
+    <list default="true" id="479429e3-539b-4684-8c6b-43ac92ab3cc3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -14,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -47,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698071015295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="V3_Implementado algoritmo de obtención del mayor de dos números.">
+      <created>1698072525494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698072525494</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -55,7 +67,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -64,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V1" />
     <MESSAGE value="V2" />
-    <option name="LAST_COMMIT_MESSAGE" value="V2" />
+    <MESSAGE value="V3_Implementado algoritmo de obtención del mayor de dos números." />
+    <option name="LAST_COMMIT_MESSAGE" value="V3_Implementado algoritmo de obtención del mayor de dos números." />
   </component>
 </project>

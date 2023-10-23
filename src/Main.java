@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Inserte segundo número: ");
         n2=sc.nextInt();
         System.out.println("El número mayor ");
+        System.out.println("El menor mayor ");
+
     }
 }
