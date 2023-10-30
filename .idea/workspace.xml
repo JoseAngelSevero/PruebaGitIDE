@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479429e3-539b-4684-8c6b-43ac92ab3cc3" name="Changes" comment="">
+    <list default="true" id="479429e3-539b-4684-8c6b-43ac92ab3cc3" name="Changes" comment="V3_Implementado algoritmo de obtención del mayor de dos números.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
